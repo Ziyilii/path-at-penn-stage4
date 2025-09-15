@@ -11,7 +11,7 @@ How to run:
 Files:
 - `index.html` – main page
 - `style.css` – styles (simple CSS, mobile-first)
-- (no JavaScript)
+- README.md
 
 Notes:
 - I set the phone frame to 390×844 so it looks right on desktop.
